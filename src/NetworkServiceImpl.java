@@ -1,6 +1,3 @@
-package wrapper28;
-
-// базова реалізація без зайвої логіки всередині
 public class NetworkServiceImpl implements NetworkService {
 
     @Override

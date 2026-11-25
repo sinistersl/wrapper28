@@ -1,4 +1,3 @@
-package wrapper28;
 
 // обгортка, яка спершу дивиться, чи є інтернет, а потім передає виклик далі
 public class ConnectionCheckWrapper implements NetworkService {
